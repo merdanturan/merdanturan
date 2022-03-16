@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=merdanturan&label=Profile%20views&color=0e75b6&style=plastic" alt="merdanturan" /> </p>
 
-- 🔭 I’m currently working on **inavitas**
+- 🔭 I’m currently working for **inavitas**
 
 - 🌱 I’m currently learning **Solidity**
 
